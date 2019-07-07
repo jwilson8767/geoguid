@@ -1,2 +1,2 @@
 # geoguid
-An interface between the geo:// url scheme, geohashes, and any database anywhere.
+An interface between geo:// uris, geohashes, and any database anywhere.
